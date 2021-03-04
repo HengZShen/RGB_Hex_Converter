@@ -14,4 +14,6 @@ A simple hex-number color converter with sliders
 - https://hengzshen.github.io/RGB_Hex_Converter/
 
 
-## screenshots
+## screenshot
+ 
+ ![screenshot](https://github.com/HengZShen/RGB_Hex_Converter/blob/master/RGB_Converter_ScreenShot.JPG)
